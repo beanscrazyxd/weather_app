@@ -2,7 +2,7 @@ import tkinter as tk
 import requests
 from tkinter import messagebox
 
-API_KEY = "c970652ed8e6bd353a3c287daffc519f"
+API_KEY = "API KEY"  #ENTER API KEY
 
 # Emoji mapping based on weather descriptions
 def get_weather_icon(description):
