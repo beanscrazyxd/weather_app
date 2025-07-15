@@ -1,0 +1,2 @@
+requests==2.32.4
+# Note: Tkinter is required, and comes pre-installed with Python
