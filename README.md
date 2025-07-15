@@ -16,3 +16,8 @@ A beautiful and user-friendly desktop weather application built using Python and
 - Emoji weather indicators ☀️❄️🌧️
 - Simple and clean design 🎨
 
+## 📦 Requirements
+
+- Python 3.7 or above
+- `requests` library (installed via `requirements.txt`)
+- `tkinter` (comes built-in with Python)
